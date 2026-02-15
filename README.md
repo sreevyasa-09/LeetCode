@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
