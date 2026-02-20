@@ -12,11 +12,6 @@ class Solution {
                 temp /= 10;
             }
         }
-        if(digitsum > elementsum){
-            digitsum -= elementsum;
-        }else{
-            digitsum = elementsum - digitsum;
-        }
-        return digitsum;
+        return Math.abs(elementsum-digitsum);
     }
 }
