@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0761-special-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0761-special-binary-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
