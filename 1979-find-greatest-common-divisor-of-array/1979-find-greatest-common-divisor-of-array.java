@@ -7,13 +7,11 @@ class Solution {
             if(num < min) min = num;
             if(num > max) max = num;
         }
-        int a = min;
-        int b = max;
-        while(b != 0){
-            int temp = b;
-            b = a % b;
-            a = temp;
+        while(max != 0){
+            int temp = max;
+            max = min % max;
+            min = temp;
         }
-        return a;
+        return min;
     }
 }
