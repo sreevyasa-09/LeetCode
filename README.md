@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0704-binary-search) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
