@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
