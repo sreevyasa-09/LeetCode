@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Number Theory
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
