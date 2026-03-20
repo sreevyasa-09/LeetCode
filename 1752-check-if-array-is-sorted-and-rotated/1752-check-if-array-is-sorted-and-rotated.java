@@ -6,6 +6,9 @@ class Solution {
             if (nums[i] > nums[(i + 1) % n])
                 s += 1;
         }
-        return s > 1 ? false : true;
+        if(s > 1){
+        return false;
+         }else
+        return true;
     }
 }
