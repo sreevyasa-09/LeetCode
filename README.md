@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
