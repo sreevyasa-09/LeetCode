@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1622-fancy-sequence) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0704-binary-search) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
