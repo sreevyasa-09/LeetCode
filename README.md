@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Math
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1622-fancy-sequence) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0704-binary-search) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [0969-pancake-sorting](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0969-pancake-sorting) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
