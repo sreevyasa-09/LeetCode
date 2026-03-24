@@ -7,9 +7,8 @@ class Solution {
             else if(num == 1) c1++;
             else if(num == 2) c2++;
         }
-        int index = 0;
-        while(c0-- > 0) nums[index++] = 0;
-        while(c1-- > 0) nums[index++] = 1;
-        while(c2-- > 0) nums[index++] = 2;
+        for(int i = 0; i < c0; i++) nums[i] = 0;
+        for(int i = c0; i < c0+c1; i++) nums[i] = 1;
+        for(int i = c0+c1; i < n; i++) nums[i] = 2;
     }
 }
