@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0969-pancake-sorting) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
