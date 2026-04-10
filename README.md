@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0969-pancake-sorting](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0969-pancake-sorting) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
