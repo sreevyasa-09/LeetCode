@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0761-special-binary-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
