@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0969-pancake-sorting) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
