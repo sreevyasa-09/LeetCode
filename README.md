@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0969-pancake-sorting) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
