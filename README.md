@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0070-climbing-stairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0075-sort-colors) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
