@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Divide and Conquer
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2906-construct-product-matrix) |
