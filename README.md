@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3488-closest-equal-element-queries) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3161-block-placement-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
