@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
 |  |
