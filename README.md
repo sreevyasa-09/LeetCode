@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3488-closest-equal-element-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Rolling Hash
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
