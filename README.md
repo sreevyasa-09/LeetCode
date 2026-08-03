@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2463-minimum-total-distance-traveled) |
@@ -639,4 +642,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
