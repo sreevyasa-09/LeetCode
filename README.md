@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0969-pancake-sorting](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0969-pancake-sorting) |
+| [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1871-jump-game-vii) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1340-jump-game-v) |
@@ -648,13 +652,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
