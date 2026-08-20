@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2751-robot-collisions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3161-block-placement-queries) |
