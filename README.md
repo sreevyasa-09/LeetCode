@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2029-stone-game-ix) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2906-construct-product-matrix) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -701,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
