@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1510-stone-game-iv) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String Matching
 |  |
