@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1345-jump-game-iv) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Array
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [0969-pancake-sorting](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0969-pancake-sorting) |
+| [1096-brace-expansion-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1340-jump-game-v) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2751-robot-collisions) |
 ## Queue
