@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
@@ -802,5 +805,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
