@@ -831,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
