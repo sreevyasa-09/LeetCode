@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
