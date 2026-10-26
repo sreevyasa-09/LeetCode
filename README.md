@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0796-rotate-string) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2029-stone-game-ix) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Trie
 |  |
