@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [0969-pancake-sorting](https://github.com/sreevyasa-09/LeetCode-DSA/tree/master/0969-pancake-sorting) |
